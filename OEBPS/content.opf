@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" unique-identifier="bookid">
+  <metadata>
+    <dc:identifier id="bookid">urn:isbn:9781593276850</dc:identifier>
+    <dc:title>Automate the Boring Stuff with Python: Practical Programming for Total Beginners</dc:title>
+    <dc:rights>Copyright © 2015 </dc:rights>
+    <dc:publisher>No Starch Press</dc:publisher>
+    <dc:subject>COMPUTERS / Programming / General</dc:subject>
+    <dc:date>2015-04-25</dc:date>
+    <dc:description>&lt;p&gt;&lt;em&gt;Automate the Boring Stuff with Python&lt;/em&gt; teaches simple programming skills to automate everyday computer tasks.&lt;/p&gt;</dc:description>
+    <dc:creator xmlns:opf="http://www.idpf.org/2007/opf" opf:file-as="Al Sweigart" opf:role="aut">Al Sweigart</dc:creator>
+    <dc:language>en</dc:language>
+    <meta name="cover" content="cover-image"/>
+  </metadata>
+  <manifest>
+    <item id="ncxtoc" media-type="application/x-dtbncx+xml" href="toc.ncx"/>
+    <item media-type="text/css" id="css" href="core.css"/>
+    <item id="cover" href="cover.html" media-type="application/xhtml+xml"/>
+    <item id="epub.embedded.font.1" href="DejaVuSerif.otf" media-type="font/opentype"/>
+    <item id="epub.embedded.font.2" href="DejaVuSans-Bold.otf" media-type="font/opentype"/>
+    <item id="epub.embedded.font.3" href="UbuntuMono-Regular.otf" media-type="font/opentype"/>
+    <item id="epub.embedded.font.4" href="UbuntuMono-Bold.otf" media-type="font/opentype"/>
+    <item id="epub.embedded.font.5" href="UbuntuMono-BoldItalic.otf" media-type="font/opentype"/>
+    <item id="epub.embedded.font.6" href="UbuntuMono-Italic.otf" media-type="font/opentype"/>
+    <item id="id295961" href="index.html" media-type="application/xhtml+xml"/>
+    <item id="cover-image" href="orm_front_cover.jpg" media-type="image/jpeg"/>
+    <item id="id357235" href="dedication.html" media-type="application/xhtml+xml"/>
+    <item id="id328649" href="pr02.html" media-type="application/xhtml+xml"/>
+    <item id="id323718" href="pr03.html" media-type="application/xhtml+xml"/>
+    <item id="id315743" href="pr04.html" media-type="application/xhtml+xml"/>
+    <item id="id325372" href="pr05.html" media-type="application/xhtml+xml"/>
+    <item id="id314148" href="figs/web/00fig01.png.jpg" media-type="image/jpeg"/>
+    <item id="id327875" href="figs/web/00fig02.png.jpg" media-type="image/jpeg"/>
+    <item id="id327538" href="pt01.html" media-type="application/xhtml+xml"/>
+    <item id="id324837" href="ch01.html" media-type="application/xhtml+xml"/>
+    <item id="id356100" href="figs/web/01fig01.png" media-type="image/png"/>
+    <item id="id332781" href="figs/web/01fig02.png.jpg" media-type="image/jpeg"/>
+    <item id="id437008" href="figs/web/01fig03.png.jpg" media-type="image/jpeg"/>
+    <item id="id322177" href="figs/web/01fig04.png" media-type="image/png"/>
+    <item id="id346107" href="ch02.html" media-type="application/xhtml+xml"/>
+    <item id="id441828" href="figs/web/02fig01.png.jpg" media-type="image/jpeg"/>
+    <item id="id317344" href="figs/web/02fig02.png.jpg" media-type="image/jpeg"/>
+    <item id="id437991" href="figs/web/02fig03.png.jpg" media-type="image/jpeg"/>
+    <item id="id375136" href="figs/web/02fig04.png" media-type="image/png"/>
+    <item id="id455616" href="figs/web/02fig05.png" media-type="image/png"/>
+    <item id="id450427" href="figs/web/02fig06.png" media-type="image/png"/>
+    <item id="id450126" href="figs/web/02fig07.png" media-type="image/png"/>
+    <item id="id342380" href="figs/web/02fig08.png" media-type="image/png"/>
+    <item id="id384472" href="figs/web/02fig09.png" media-type="image/png"/>
+    <item id="id314847" href="figs/web/02fig10.png" media-type="image/png"/>
+    <item id="id327612" href="figs/web/02fig11.png" media-type="image/png"/>
+    <item id="id388648" href="figs/web/02fig12.png.jpg" media-type="image/jpeg"/>
+    <item id="id398060" href="figs/web/02fig13.png.jpg" media-type="image/jpeg"/>
+    <item id="id448441" href="figs/web/02fig14.png" media-type="image/png"/>
+    <item id="id388573" href="ch03.html" media-type="application/xhtml+xml"/>
+    <item id="id323216" href="ch04.html" media-type="application/xhtml+xml"/>
+    <item id="id432561" href="figs/web/04fig01.png" media-type="image/png"/>
+    <item id="id374181" href="figs/web/04fig02.png.jpg" media-type="image/jpeg"/>
+    <item id="id425987" href="figs/web/04fig03.png.jpg" media-type="image/jpeg"/>
+    <item id="id413559" href="figs/web/04fig04.png.jpg" media-type="image/jpeg"/>
+    <item id="id343786" href="figs/web/04fig05.png.jpg" media-type="image/jpeg"/>
+    <item id="id438631" href="figs/web/04fig06.png.jpg" media-type="image/jpeg"/>
+    <item id="id404867" href="figs/web/04fig07.png.jpg" media-type="image/jpeg"/>
+    <item id="id420753" href="ch05.html" media-type="application/xhtml+xml"/>
+    <item id="id405276" href="figs/web/05fig01.png.jpg" media-type="image/jpeg"/>
+    <item id="id394102" href="figs/web/05fig02.png" media-type="image/png"/>
+    <item id="id314704" href="figs/web/05fig03.png" media-type="image/png"/>
+    <item id="id374536" href="figs/web/05fig04.png" media-type="image/png"/>
+    <item id="id333900" href="figs/web/05fig05.png" media-type="image/png"/>
+    <item id="id421738" href="ch06.html" media-type="application/xhtml+xml"/>
+    <item id="id356666" href="pt02.html" media-type="application/xhtml+xml"/>
+    <item id="id337468" href="ch07.html" media-type="application/xhtml+xml"/>
+    <item id="id351166" href="ch08.html" media-type="application/xhtml+xml"/>
+    <item id="id357261" href="figs/web/08fig01.png.jpg" media-type="image/jpeg"/>
+    <item id="id409723" href="figs/web/08fig02.png.jpg" media-type="image/jpeg"/>
+    <item id="id392646" href="figs/web/08fig03.png.jpg" media-type="image/jpeg"/>
+    <item id="id382082" href="figs/web/08fig04.png" media-type="image/png"/>
+    <item id="id381240" href="figs/web/08fig05.png.jpg" media-type="image/jpeg"/>
+    <item id="id338431" href="ch09.html" media-type="application/xhtml+xml"/>
+    <item id="id425153" href="figs/web/09fig01.png.jpg" media-type="image/jpeg"/>
+    <item id="id374572" href="figs/web/09fig02.png.jpg" media-type="image/jpeg"/>
+    <item id="id400979" href="ch10.html" media-type="application/xhtml+xml"/>
+    <item id="id395690" href="figs/web/10fig01.png.jpg" media-type="image/jpeg"/>
+    <item id="id336809" href="figs/web/10fig02.png.jpg" media-type="image/jpeg"/>
+    <item id="id404553" href="figs/web/10fig03.png.jpg" media-type="image/jpeg"/>
+    <item id="id335313" href="figs/web/10fig04.png.jpg" media-type="image/jpeg"/>
+    <item id="id422783" href="figs/web/10fig05.png.jpg" media-type="image/jpeg"/>
+    <item id="id400967" href="ch11.html" media-type="application/xhtml+xml"/>
+    <item id="id410030" href="figs/web/11fig01.png.jpg" media-type="image/jpeg"/>
+    <item id="id450019" href="figs/web/11fig02.png.jpg" media-type="image/jpeg"/>
+    <item id="id309247" href="figs/web/11fig03.png.jpg" media-type="image/jpeg"/>
+    <item id="id397677" href="figs/web/common-01.png.jpg" media-type="image/jpeg"/>
+    <item id="id390640" href="figs/web/11fig04.png.jpg" media-type="image/jpeg"/>
+    <item id="id339850" href="figs/web/11fig05.png.jpg" media-type="image/jpeg"/>
+    <item id="id403805" href="figs/web/11fig06.png.jpg" media-type="image/jpeg"/>
+    <item id="id445025" href="figs/web/11fig07.png.jpg" media-type="image/jpeg"/>
+    <item id="id398029" href="ch12.html" media-type="application/xhtml+xml"/>
+    <item id="id380970" href="figs/web/12fig01.png.jpg" media-type="image/jpeg"/>
+    <item id="id453532" href="figs/web/12fig02.png" media-type="image/png"/>
+    <item id="id400664" href="figs/web/12fig03.png.jpg" media-type="image/jpeg"/>
+    <item id="id457957" href="figs/web/12fig04.png" media-type="image/png"/>
+    <item id="id328746" href="figs/web/12fig05.png.jpg" media-type="image/jpeg"/>
+    <item id="id408862" href="figs/web/12fig06.png.jpg" media-type="image/jpeg"/>
+    <item id="id341800" href="figs/web/12fig07.png" media-type="image/png"/>
+    <item id="id337134" href="figs/web/12fig08.png.jpg" media-type="image/jpeg"/>
+    <item id="id442563" href="figs/web/12fig09.png.jpg" media-type="image/jpeg"/>
+    <item id="id410538" href="figs/web/12fig10.png.jpg" media-type="image/jpeg"/>
+    <item id="id389923" href="figs/web/12fig11.png.jpg" media-type="image/jpeg"/>
+    <item id="id385883" href="figs/web/12fig12.png.jpg" media-type="image/jpeg"/>
+    <item id="id388630" href="figs/web/12fig13.png.jpg" media-type="image/jpeg"/>
+    <item id="id352359" href="ch13.html" media-type="application/xhtml+xml"/>
+    <item id="id448343" href="figs/web/13fig01.png.jpg" media-type="image/jpeg"/>
+    <item id="id397486" href="figs/web/13fig02.png.jpg" media-type="image/jpeg"/>
+    <item id="id333326" href="figs/web/13fig03.png.jpg" media-type="image/jpeg"/>
+    <item id="id425724" href="figs/web/13fig04.png" media-type="image/png"/>
+    <item id="id335344" href="figs/web/13fig05.png.jpg" media-type="image/jpeg"/>
+    <item id="id434472" href="figs/web/13fig06.png.jpg" media-type="image/jpeg"/>
+    <item id="id451953" href="figs/web/13fig07.png.jpg" media-type="image/jpeg"/>
+    <item id="id407275" href="figs/web/13fig08.png.jpg" media-type="image/jpeg"/>
+    <item id="id442920" href="figs/web/13fig09.png.jpg" media-type="image/jpeg"/>
+    <item id="id389954" href="figs/web/13fig10.png.jpg" media-type="image/jpeg"/>
+    <item id="id392281" href="figs/web/13fig11.png.jpg" media-type="image/jpeg"/>
+    <item id="id321400" href="ch14.html" media-type="application/xhtml+xml"/>
+    <item id="id320350" href="figs/web/14fig01.png" media-type="image/png"/>
+    <item id="id386910" href="ch15.html" media-type="application/xhtml+xml"/>
+    <item id="id431417" href="figs/web/15fig01.png.jpg" media-type="image/jpeg"/>
+    <item id="id447493" href="ch16.html" media-type="application/xhtml+xml"/>
+    <item id="id394167" href="figs/web/16fig01.png.jpg" media-type="image/jpeg"/>
+    <item id="id391613" href="figs/web/16fig02.png.jpg" media-type="image/jpeg"/>
+    <item id="id345469" href="figs/web/16fig03.png.jpg" media-type="image/jpeg"/>
+    <item id="id374433" href="ch17.html" media-type="application/xhtml+xml"/>
+    <item id="id454770" href="figs/web/17fig01.png.jpg" media-type="image/jpeg"/>
+    <item id="id403005" href="figs/web/17fig02.png.jpg" media-type="image/jpeg"/>
+    <item id="id410618" href="figs/web/17fig03.png.jpg" media-type="image/jpeg"/>
+    <item id="id352912" href="figs/web/17fig04.png.jpg" media-type="image/jpeg"/>
+    <item id="id333145" href="figs/web/17fig05.png.jpg" media-type="image/jpeg"/>
+    <item id="id386557" href="figs/web/17fig06.png.jpg" media-type="image/jpeg"/>
+    <item id="id357650" href="figs/web/17fig07.png.jpg" media-type="image/jpeg"/>
+    <item id="id385149" href="figs/web/17fig08.png.jpg" media-type="image/jpeg"/>
+    <item id="id408120" href="figs/web/17fig09.png.jpg" media-type="image/jpeg"/>
+    <item id="id418870" href="figs/web/17fig10.png.jpg" media-type="image/jpeg"/>
+    <item id="id354598" href="figs/web/17fig11.png.jpg" media-type="image/jpeg"/>
+    <item id="id334119" href="figs/web/17fig12.png.jpg" media-type="image/jpeg"/>
+    <item id="id382984" href="figs/web/17fig13.png.jpg" media-type="image/jpeg"/>
+    <item id="id441653" href="figs/web/17fig14.png.jpg" media-type="image/jpeg"/>
+    <item id="id431245" href="figs/web/17fig15.png.jpg" media-type="image/jpeg"/>
+    <item id="id328322" href="figs/web/17fig16.png.jpg" media-type="image/jpeg"/>
+    <item id="id359783" href="ch18.html" media-type="application/xhtml+xml"/>
+    <item id="id434007" href="figs/web/18fig01.png.jpg" media-type="image/jpeg"/>
+    <item id="id448725" href="figs/web/18fig02.png.jpg" media-type="image/jpeg"/>
+    <item id="id396833" href="figs/web/18fig03.png.jpg" media-type="image/jpeg"/>
+    <item id="id711299" href="figs/web/18fig04.png.jpg" media-type="image/jpeg"/>
+    <item id="id390012" href="apa.html" media-type="application/xhtml+xml"/>
+    <item id="id713348" href="apb.html" media-type="application/xhtml+xml"/>
+    <item id="id713686" href="figs/web/bfig01.png.jpg" media-type="image/jpeg"/>
+    <item id="id713897" href="apc.html" media-type="application/xhtml+xml"/>
+    <item id="id713902" href="apd.html" media-type="application/xhtml+xml"/>
+    <item id="id717066" href="figs/web/480fig01.png.jpg" media-type="image/jpeg"/>
+    <item id="id717108" href="figs/web/480fig02.png.jpg" media-type="image/jpeg"/>
+    <item id="id717191" href="figs/web/480fig03.png.jpg" media-type="image/jpeg"/>
+    <item id="id717275" href="figs/web/480fig04.png.jpg" media-type="image/jpeg"/>
+    <item id="id717358" href="figs/web/480fig05.png.jpg" media-type="image/jpeg"/>
+    <item id="id717446" href="figs/web/480fig06.png.jpg" media-type="image/jpeg"/>
+    <item id="id717530" href="figs/web/480fig07.png.jpg" media-type="image/jpeg"/>
+    <item id="id717036" href="ix01.html" media-type="application/xhtml+xml"/>
+    <item id="id717041" href="copyright.html" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncxtoc">
+    <itemref idref="cover" linear="yes"/>
+    <itemref idref="id295961"/>
+    <itemref idref="id357235"/>
+    <itemref idref="id328649"/>
+    <itemref idref="id323718"/>
+    <itemref idref="id315743"/>
+    <itemref idref="id325372"/>
+    <itemref idref="id327538"/>
+    <itemref idref="id324837"/>
+    <itemref idref="id346107"/>
+    <itemref idref="id388573"/>
+    <itemref idref="id323216"/>
+    <itemref idref="id420753"/>
+    <itemref idref="id421738"/>
+    <itemref idref="id356666"/>
+    <itemref idref="id337468"/>
+    <itemref idref="id351166"/>
+    <itemref idref="id338431"/>
+    <itemref idref="id400979"/>
+    <itemref idref="id400967"/>
+    <itemref idref="id398029"/>
+    <itemref idref="id352359"/>
+    <itemref idref="id321400"/>
+    <itemref idref="id386910"/>
+    <itemref idref="id447493"/>
+    <itemref idref="id374433"/>
+    <itemref idref="id359783"/>
+    <itemref idref="id390012"/>
+    <itemref idref="id713348"/>
+    <itemref idref="id713897"/>
+    <itemref idref="id713902"/>
+    <itemref idref="id717036"/>
+    <itemref idref="id717041"/>
+  </spine>
+  <guide>
+    <reference href="cover.html" type="cover" title="Cover"/>
+    <reference href="index.html" type="text"/>
+  </guide>
+</package>

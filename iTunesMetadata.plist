@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Al Sweigart</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>3DF74EE52BA1A72D66092613053B5374</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/orm_front_cover.jpg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>DB66681D29EE578383541AEA7D517E48</string>
+		<key>publisher-unique-id</key>
+		<string>urn:isbn:9781593276850</string>
+		<key>unique-id</key>
+		<integer>4757480981691837301</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>genre</key>
+	<string>COMPUTERS / Programming / General</string>
+	<key>itemName</key>
+	<string>Automate the Boring Stuff with Python: Practical Programming for Total Beginners</string>
+	<key>playlistName</key>
+	<string>Automate the Boring Stuff with Python: Practical Programming for Total Beginners</string>
+	<key>releaseDate</key>
+	<string>2015-04-25</string>
+	<key>sort-artist</key>
+	<string>Al Sweigart</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>
